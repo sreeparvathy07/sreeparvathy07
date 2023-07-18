@@ -8,7 +8,3 @@
 sreeparvathy07/sreeparvathy07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Testing a change
-
-Testing a change in branch
-Testing a change in branch 2
